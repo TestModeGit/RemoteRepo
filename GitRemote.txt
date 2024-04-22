@@ -2,3 +2,4 @@ Main Branch - First Commit
 Main Branch - Second Commit
 Feature Branch - First Commit
 Feature Branch - Second Commit
+Main Branch - Third Commit
